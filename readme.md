@@ -1,7 +1,19 @@
+For running the program:
+
+![alt text](image.png)
+
+Clone the repository in specific machine using URL --> https://github.com/joshivignesh/MagazineSubscriberAPIClient.git  or Open with Github Desktop or Download Zip file and unzip
+
+If any editor available like VSCode or VS 2022 ( Any edition ) click on the file with extension .sln and run the application
+
+If no editor available make sure .NET Framework is available, open the folder where code in placed. Copy the folder name in any CLI ( like command prompt or Power Shell ) and type command --> DotNet run
+
+================================================
 Relationship and Data flow order
 
 1. Fetch Token => 2. Get Category List along with retrieved Token from Step 1 => 3. Fetch MagazineId, Name for specific Category => 4. Fetch Subscriber detail along with Magazine Id's that they are subscribed to => Post the data of each Subscriber Guid whoever are subscribed all the type of Magazine 
 
+================================================
 Request and Response to be used
  
  1. Request
