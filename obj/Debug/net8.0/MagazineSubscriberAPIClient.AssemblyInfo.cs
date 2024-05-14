@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagazineSubscriberAPIClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b04bcd948bd70385893a63ea85f90fc0f85390d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagazineSubscriberAPIClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagazineSubscriberAPIClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
