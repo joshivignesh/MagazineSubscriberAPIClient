@@ -1,0 +1,17 @@
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\bin\Debug\net8.0\MagazineSubscriberAPIClient.exe
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\bin\Debug\net8.0\MagazineSubscriberAPIClient.deps.json
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\bin\Debug\net8.0\MagazineSubscriberAPIClient.runtimeconfig.json
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\bin\Debug\net8.0\MagazineSubscriberAPIClient.dll
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\bin\Debug\net8.0\MagazineSubscriberAPIClient.pdb
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\obj\Debug\net8.0\MagazineSubscriberAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\obj\Debug\net8.0\MagazineSubscriberAPIClient.AssemblyInfoInputs.cache
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\obj\Debug\net8.0\MagazineSubscriberAPIClient.AssemblyInfo.cs
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\obj\Debug\net8.0\MagazineSubscriberAPIClient.csproj.CoreCompileInputs.cache
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\obj\Debug\net8.0\MagazineSubscriberAPIClient.dll
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\obj\Debug\net8.0\refint\MagazineSubscriberAPIClient.dll
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\obj\Debug\net8.0\MagazineSubscriberAPIClient.pdb
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\obj\Debug\net8.0\MagazineSubscriberAPIClient.genruntimeconfig.cache
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\obj\Debug\net8.0\ref\MagazineSubscriberAPIClient.dll
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\obj\Debug\net8.0\MagazineSubscriberAPIClient.csproj.AssemblyReference.cache
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Vignesh\My Code workouts\DotnetCodeMagazineWorkout\MagazineSubscriberAPIClient\obj\Debug\net8.0\Magazine.537C4451.Up2Date
