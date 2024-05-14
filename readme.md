@@ -1,3 +1,7 @@
+Relationship and Data flow order
+
+1. Fetch Token => 2. Get Category List along with retrieved Token from Step 1 => 3. Fetch MagazineId, Name for specific Category => 4. Fetch Subscriber detail along with Magazine Id's that they are subscribed to => Post the data of each Subscriber Guid whoever are subscribed all the type of Magazine 
+
 Request and Response to be used
  
  1. Request
